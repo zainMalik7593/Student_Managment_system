@@ -35,9 +35,9 @@ This project is freely available under the MIT License.
 
 ## Screenshots
 
-![Image Description](Screenshot_2024-08-18_071609.png)
+![Image Description](screenshot1.png)
 
-![Image Description](Screenshot_2024-08-18_071541.png)
+![Image Description](screenshot2.png)
 
-![Image Description](Screenshot_2024-08-18_071506.png)
+![Image Description](screenshot3.png)
 
