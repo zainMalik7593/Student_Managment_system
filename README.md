@@ -35,6 +35,9 @@ This project is freely available under the MIT License.
 
 ## Screenshots
 
-![Student Management System Screenshot](Screenshot 2024-08-18 071506.png "Student Management System Screenshot")
-![Student Management System Screenshot](Screenshot 2024-08-18 071541.png "Student Management System Screenshot")
-![Student Management System Screenshot](Screenshot 2024-08-18 071609.png "Student Management System Screenshot")
+![Image Description](Screenshot_2024-08-18_071609.png)
+
+![Image Description](Screenshot_2024-08-18_071541.png)
+
+![Image Description](Screenshot_2024-08-18_071506.png)
+
