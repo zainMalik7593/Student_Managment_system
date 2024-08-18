@@ -1,0 +1,21 @@
+# Set line endings to LF for all files
+* text eol=lf
+
+# Specific settings for different file types
+*.blade.php text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.php text eol=lf
+
+# Diff settings for various file types
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+# Ignore specific files or directories for export
+/.github export-ignore
+CHANGELOG.md export-ignore
+.styleci.yml export-ignore
