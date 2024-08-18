@@ -1,0 +1,35 @@
+.group-attendance {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fce1e1!important;
+}
+h1 {
+    text-align: center;
+    border-radius: 2vh;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: relative;
+    top: -100px;
+    background-color: #ffffff;
+    border: 5px solid #ab1316;
+}
+td,tr{
+    text-align: center!important;
+}
+@media print {
+    body * {
+        visibility: hidden;
+    }
+    Table, Table * {
+        visibility: visible;
+    }
+    Table {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+}

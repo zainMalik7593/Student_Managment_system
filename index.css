@@ -1,0 +1,31 @@
+*{
+    /* #ab1316 */
+    /* #646567
+    #28282a */
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.gradient{
+    background: linear-gradient( 90deg,rgb(255, 255, 255),#ab1316,rgb(255, 255, 255));
+}
+.form-control{
+    box-shadow: 4px 4px 4px #ab1316;
+}
+
+
+#img{
+    height: 2.5rem;
+    margin-top: 1rem;
+}
+#opacity{
+    opacity: 0;
+}
+.card-outer{
+    margin-top: 9rem;
+}
+#ft-text{
+    color: #646567;
+}
+
